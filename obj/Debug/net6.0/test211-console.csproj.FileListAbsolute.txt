@@ -1,0 +1,17 @@
+C:\Users\Wrenn\source\repos\test211-console\bin\Debug\net6.0\test211-console.exe
+C:\Users\Wrenn\source\repos\test211-console\bin\Debug\net6.0\test211-console.deps.json
+C:\Users\Wrenn\source\repos\test211-console\bin\Debug\net6.0\test211-console.runtimeconfig.json
+C:\Users\Wrenn\source\repos\test211-console\bin\Debug\net6.0\test211-console.dll
+C:\Users\Wrenn\source\repos\test211-console\bin\Debug\net6.0\test211-console.pdb
+C:\Users\Wrenn\source\repos\test211-console\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Wrenn\source\repos\test211-console\obj\Debug\net6.0\test211-console.csproj.AssemblyReference.cache
+C:\Users\Wrenn\source\repos\test211-console\obj\Debug\net6.0\test211-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wrenn\source\repos\test211-console\obj\Debug\net6.0\test211-console.AssemblyInfoInputs.cache
+C:\Users\Wrenn\source\repos\test211-console\obj\Debug\net6.0\test211-console.AssemblyInfo.cs
+C:\Users\Wrenn\source\repos\test211-console\obj\Debug\net6.0\test211-console.csproj.CoreCompileInputs.cache
+C:\Users\Wrenn\source\repos\test211-console\obj\Debug\net6.0\test211-console.csproj.CopyComplete
+C:\Users\Wrenn\source\repos\test211-console\obj\Debug\net6.0\test211-console.dll
+C:\Users\Wrenn\source\repos\test211-console\obj\Debug\net6.0\refint\test211-console.dll
+C:\Users\Wrenn\source\repos\test211-console\obj\Debug\net6.0\test211-console.pdb
+C:\Users\Wrenn\source\repos\test211-console\obj\Debug\net6.0\test211-console.genruntimeconfig.cache
+C:\Users\Wrenn\source\repos\test211-console\obj\Debug\net6.0\ref\test211-console.dll
